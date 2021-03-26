@@ -188,6 +188,15 @@ body {
 
 /* Footer */
 
+main {
+	padding-bottom: 120px;
+}
+
+body {
+	position: relative;
+	min-height: 100vh;
+}
+
 .footer {
     background-color: #333333;
     width: 100%;
@@ -195,6 +204,10 @@ body {
     padding-bottom: 40px;
     font-size: 100%;
     text-align: center;
+	
+	height: 120px;
+	position:absolute;
+	bottom:0;
  
 }
 
