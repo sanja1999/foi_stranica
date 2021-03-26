@@ -187,6 +187,29 @@ body {
 }
 
 /* Footer */
+/* Bornov da se footer ne digne
+
+
+html { 
+    height: 100%;
+}
+
+uči u body
+
+body {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    overflow-x: hidden;
+}
+
+main {
+    flex: 1 0 auto; grow, shrink, basis
+    
+}
+
+*/
+
 
 main {
 	padding-bottom: 120px;
